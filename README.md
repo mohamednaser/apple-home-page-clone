@@ -1,15 +1,14 @@
-# New York Times Article Clone
+# Apple Home Page Clone
 
-The New York Times Article Clone project is aimed at applying the knowledge of basic HTML and CSS structure to build an exact copy of New York Times Article Page.
+The Apple Home Page Clone project is aimed at applying the knowledge of basic HTML and CSS structure to build an exact copy of Apple Home Page.
 
-[Click to go to Original New York Times Article](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html)
+[Click To Check The Original One](https://web.archive.org/web/20140301004610/http://www.apple.com/)
 
 ## Authors
 
 This project was executed by the duo of :
 
 - [Mohamed Naser](https://www.linkedin.com/in/mohamednaseramein/)
-- [Marcos Medeiros](https://www.linkedin.com/in/marcos-medeiros-6a079a18a/)
 
 ## Used Tools
 
@@ -21,11 +20,11 @@ This project was executed by the duo of :
 
 ## Done Work
 
-- [x] Create Fixed Header Nav Bar
-- [x] Create Article Div
-- [x] Crete footer div
+- [x] Create Navigation bar
+- [x] Create middle headers
+- [x] Crete promos section
+- [x] Crete footer section
 - [x] Use Semintaic HTML
-- [x] Use Flex in (footer articles , middle article image)
 - [x] check CSS with stylelint
 - [x] Check html with W3C validator
 - [x] Validate Readme file with markdown lint
@@ -35,7 +34,7 @@ This project was executed by the duo of :
 Open your git bash and cd to the location you'd like to put your files the run the command below.
 
 ```console
-git clone https://github.com/mvsmdrs/displaying-and-inputting-data.git
+git clone git@github.com:mohamednaser/apple-home-page-clone.git
 ```
 
 ## Live Version
