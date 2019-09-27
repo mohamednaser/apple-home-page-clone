@@ -39,7 +39,7 @@ git clone git@github.com:mohamednaser/apple-home-page-clone.git
 
 ## Live Version
 
-Live version [here](www.google.com) [pending].
+Live version [here](https://mohamednaser.github.io/apple-home-page-clone/).
 
 ## ScreenShot For Page
 
