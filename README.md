@@ -20,8 +20,7 @@ This project was executed by the duo of :
 
 ## Done Work
 
-- [x] Create Navigation bar
-- [x] Create middle headers
+- [x] Create main Navigation section
 - [x] Crete promos section
 - [x] Crete footer section
 - [x] Use Semintaic HTML
